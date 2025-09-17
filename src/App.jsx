@@ -65,27 +65,27 @@ function App() {
           </h2>
 
           <p className="mb-4">
-            Hi, I'm Colby, a fourth-year Computer Science student at Memorial
-            University of Newfoundland, currently seeking a January 2026 work
-            term opportunity. My academic and personal projects have fueled a
-            strong interest in software development, particularly in building
-            user-friendly applications.
+            I am a motivated and detail-oriented software developer with
+            hands-on experience in building applications across multiple
+            languages and frameworks, including Java, C++, Python, JavaScript,
+            and React. I've developed everything from interactive simulation
+            tools to secure file encryption applications and full-stack web apps
+            with PostgreSQL backends.
           </p>
 
           <p className="mb-4">
-            I grew up in a small fishing town in Newfoundland, and after high
-            school I moved away to pursue my passion for technology and computer
-            science. I have learned a lot in these past few years, and continue
-            to learn and improve every day.
+            I enjoy tackling performance challenges, whether it's optimizing
+            multithreaded algorithms in C++ or building responsive frontend
+            code. I work well in collaborative environments, contributing to
+            design discussions and stepping up when challenges arise. I
+            understand my role within a team and stay focused on ensuring we
+            meet deadlines without sacrificing quality.
           </p>
 
           <p className="mb-4">
-            In my free time, I enjoy working on personal programming projects.
-            I'm always eager to learn new tools and sharpen my skills. Outside
-            of coding, I like to spend time with friends, whether that's
-            catching a movie, shopping, or playing video games together. As a
-            hobby, I dabble in CGI (like animated movies or VFX shots) using
-            Blender and Unreal Engine 5.
+            I'm eager to keep learning and apply my skills to real-world
+            problems, especially in roles that value problem-solving, teamwork,
+            and delivering software that's both efficient and user-friendly.
           </p>
         </div>
       </section>
