@@ -47,7 +47,7 @@ function App() {
             />
             <ProjectCard
               title="Computerized Four"
-              description="A computerized version of the board game Four by Stephen Tavener. Designed for children, the GUI is easy to understand and use, with color-blind friendly visuals"
+              description="A computerized version of the board game Four by Stephen Tavener. Designed for children, the GUI is easy to understand and use, with color-blind friendly visuals."
               year="2024"
               classification="Group Coursework"
               techStack="Java, Java Swing"
